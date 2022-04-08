@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "viewportHeight": 823,
+  "viewportWidth": 411,
+  "testFiles": [
+  "product.add.spec.js",
+  "product.update.spec.js",
+  "product.delete.spec.js"
+  ],
+  "integrationFolder":"cypress/integration/product"
+
+ }
+ 
